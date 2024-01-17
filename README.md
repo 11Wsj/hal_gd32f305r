@@ -1,0 +1,2 @@
+# hal_gd32f305r
+zephyr添加gd32f305rct6开发板所需的hal库
